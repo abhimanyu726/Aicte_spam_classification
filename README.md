@@ -34,7 +34,7 @@ Before running the Spam Detection project, ensure you have the following install
 
 1. **Clone the Repository**  
     ```bash  
-    git clone https://github.com/abhimanyu726/spam_detection.git  
+    git clone https://github.com/abhimanyu726/Aicte_spam_classification.git  
     cd spam_detection  
     ```  
 
